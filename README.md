@@ -244,7 +244,7 @@ Airbnb experienced substantial listing growth during the 2010s, followed by a si
 
 ## Overview Page
 
-![Overview Dashboard](<img width="509" height="383" alt="Overview Page" src="https://github.com/user-attachments/assets/2b7fd96c-2433-4a38-bd71-7b561aa540a6" />
+![Overview Dashboard](https://github.com/Taqiyyfaiz/Global-Airbnb-Performance-Dashboard/blob/main/Snapshots%20of%20Dashboard/Overview%20Page.png
 )
 
 The overview page presents the main KPIs and the historical development of Airbnb listings.
@@ -253,7 +253,7 @@ The overview page presents the main KPIs and the historical development of Airbn
 
 ## Market Share & Ratings
 
-![Market Share and Ratings](<img width="518" height="388" alt="Overall Ratings" src="https://github.com/user-attachments/assets/0f1f3bae-cc8a-40d0-95fa-642048eb631e" />
+![Market Share and Ratings](https://github.com/Taqiyyfaiz/Global-Airbnb-Performance-Dashboard/blob/main/Snapshots%20of%20Dashboard/Overall%20Ratings.png
 )
 
 This page focuses on market concentration, Superhost listings, pricing by room type, and city-level ratings.
@@ -262,7 +262,7 @@ This page focuses on market concentration, Superhost listings, pricing by room t
 
 ## Review Frequency, Seasonality & Trust
 
-![Review Frequency, Seasonality and Trust](<img width="516" height="388" alt="Review Page" src="https://github.com/user-attachments/assets/550798da-6801-4d58-98b7-e6fbb05f7525" />
+![Review Frequency, Seasonality and Trust](https://github.com/Taqiyyfaiz/Global-Airbnb-Performance-Dashboard/blob/main/Snapshots%20of%20Dashboard/Review%20Page.png
 )
 
 This page analyzes customer review behavior, seasonal patterns, and host trust signals.
@@ -271,7 +271,7 @@ This page analyzes customer review behavior, seasonal patterns, and host trust s
 
 ## Detailed Ratings
 
-![Detailed Ratings](<img width="515" height="391" alt="Detailed Ratings" src="https://github.com/user-attachments/assets/346ba472-e835-4bf9-b381-49d408ac0dd2" />
+![Detailed Ratings](https://github.com/Taqiyyfaiz/Global-Airbnb-Performance-Dashboard/blob/main/Snapshots%20of%20Dashboard/Detailed%20Ratings.png
 )
 
 The detailed ratings view compares city performance across accuracy, cleanliness, communication, location, and value.
@@ -294,8 +294,7 @@ Global-Airbnb-Performance-Dashboard/
 │   ├── review-seasonality-trust.png
 │   └── detailed-ratings.png
 │
-└── Data/
-    └── README.md
+|── README.md
 ```
 
 ---
